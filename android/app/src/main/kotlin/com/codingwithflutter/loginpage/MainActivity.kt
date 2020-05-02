@@ -1,0 +1,6 @@
+package com.codingwithflutter.loginpage
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
